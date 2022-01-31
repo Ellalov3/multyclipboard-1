@@ -1,2 +1,3 @@
 # multyclipboard
-multy clip board
+Ella's multy clip board project
+1st ever python code...
